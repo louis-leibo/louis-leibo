@@ -1,12 +1,7 @@
-DS105 class
+Assignment 1
 
-- 👋 Hi, I’m @louis-leibo
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning new tools
-- 💞️ I’m looking to collaborate on machine learning
-- 📫 How to reach me ? at the LSE
-
-<!---
-louis-leibo/louis-leibo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @louis-leibo . I come from France, Paris, and I am very happy to (briefly) introduce myself on this page! 
+- 👀 I am passionate about a sport, which I think you do not know because it is not very well known in the UK: handball. So, what is handball? it is a team sport in which two teams of seven players each (six outcourt players and a goalkeeper) pass a ball using their hands with the aim of throwing it into the goal of the other team. After receiving the ball, players can pass, keep possession (by dribbling, as in basketball), or shoot the ball, but they are not allowed to touch the ball with their feet, the goalkeeper being the only one allowed to use his feet but only within the goal area. I have played handball and been the team captain for almost 10 years in Paris. My team mates became real friends and we trained all together 3 to 4 times a week, in addition to the games in the week ends ! I have learned a lot from this experience, especially the fact that collective power is a key factor to achieve success ! 
+- 🌱 I’m currently a first-year student at the LSE studying Economics. (very happy to be here ! )
+- 💞️ I’m looking forward to meeting very interesting people from whom I will learn a lot, as well as develop my knowledge of the subjects that passionate me, such as economics, entrepreneurship, or finance. 
+- 📫 How to reach me ? You can find me at the LSE! 
