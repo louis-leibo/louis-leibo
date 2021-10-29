@@ -1,5 +1,5 @@
 
-![gif](https://user-images.githubusercontent.com/92152371/139416419-5f5a40ad-40c7-4ac9-a3b6-1a340daf9d09.png)
+![](giphy.gif) 
 
 
 -   👋 Hi, I’m @louis-leibo . I come from France, Paris, and I am very happy to (briefly) introduce myself on this page! 
