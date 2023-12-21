@@ -42,5 +42,13 @@
 
 ## **Research Projects**:
 
+### Project: 
+
+
+### Project: Mental Health Costs of Covid Lockdown on the Turkish population
+
+Turkey imposed Covid lockdowns on individuals over the age of 65. I reproduce an existing study and extend the results to evaluate the impact of these lockdowns on mental health outcomes.
+
+
 
 
