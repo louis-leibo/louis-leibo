@@ -5,7 +5,7 @@
 </a>
 
 <a href="mailto:louis@leibovici.com">
-  <img align="left" alt="Jon's Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" />
+  <img align="left" alt="Louis' Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 
 - Bachelor of Sciences in Economics at the London School of Economics and Political Science (2021-2024)
 - Pre-College Program at Brown university in "Statistical Programming in R" (2019)
-- French Baccalaureate at Lycée Fénelon Sainte-Marie in Paris with Specialisms in Maths, Geopolitics and Physics & Chemistry
+- French Baccalaureate at Lycée Fénelon Sainte-Marie in Paris with Specialisms in Maths, Geopolitics and Physics & Chemistry (2018-2021)
 
 ### Languages and Tools: 
 
@@ -27,5 +27,28 @@
   
 </div>
 
+### Skills: 
+
+Economics: 
+- Macroecoonomics
+- Microeconomics
+- Econometrics
+
+Mathematics: 
+- Statistics
+- Linear algebra
+
+Data Science: 
+- Machine learning
+
+Finance: 
+- Coporate Finance
+- Market Finance
+
+### Professional Experiences: 
+
+- Financial industry (Investment Bank, Venture Capital Fund, Asset Management)
+- Start ups (refurbshing, marketplace for freelances)
+- Consulting industry (management consulting)
 
 
