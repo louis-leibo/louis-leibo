@@ -51,4 +51,7 @@ Finance:
 - Start ups (refurbshing, marketplace for freelances)
 - Consulting industry (management consulting)
 
+## **Research Projects**:
+
+
 
