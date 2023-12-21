@@ -29,21 +29,10 @@
 
 ### Skills: 
 
-Economics: 
-- Macroecoonomics
-- Microeconomics
-- Econometrics
-
-Mathematics: 
-- Statistics
-- Linear algebra
-
-Data Science: 
-- Machine learning
-
-Finance: 
-- Coporate Finance
-- Market Finance
+- Economics: Macroecoonomics; Microeconomics; Econometrics
+- Mathematics: Statistics; Linear algebra
+- Data Science: Machine learning
+- Finance: Coporate Finance; Market Finance
 
 ### Professional Experiences: 
 
