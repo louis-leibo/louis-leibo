@@ -1,4 +1,4 @@
-![image](https://github.com/louis-leibo/louis-leibo/assets/92152371/0a6d011b-6f02-4f99-be48-4de771808a6f)###  👋 Hi, I’m Louis
+###  👋 Hi, I’m Louis
 
 <a href="https://www.linkedin.com/in/louis-leibovici-936709213/">
   <img align="left" alt="Louis' LinkedIN" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />
