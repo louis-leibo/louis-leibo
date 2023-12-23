@@ -42,8 +42,9 @@
 
 ## **Research Projects**:
 
-### Project: 
+### Project: Share of female ministers in autocracy and democracy
 
+Using a data set which quantifies the role democracy plays in understanding rates of female participation using WhoGov, I create a logistic regression model to predict whether the share of females in the cabinet will increase or decrease in the next year. 
 
 ### Project: Mental Health Costs of Covid Lockdown on the Turkish population
 
