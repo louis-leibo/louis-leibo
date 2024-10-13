@@ -43,6 +43,10 @@
 
 ## **Research Projects**:
 
+### Project: Mental Health Costs of Covid Lockdown on the Turkish population
+
+Turkey imposed Covid lockdowns on individuals over the age of 65. I reproduce an existing study and extend the results to evaluate the impact of these lockdowns on mental health outcomes.
+
 ### Project UK House Price Index: predict the sales volume per month in the UK
 
 I have applied applied computer programming to modify data and fit and apply linear regression models for making predictions. Using the government data set on the House Price Index in the UK, I create a linear model to predict the sales volume per month in the UK. I then evaluate how well my model fits the data and how well my model predicts the future and conclude by explaining my choices.
@@ -50,11 +54,6 @@ I have applied applied computer programming to modify data and fit and apply lin
 ### Project: Share of female ministers in autocracy and democracy
 
 Using a data set which quantifies the role democracy plays in understanding rates of female participation using WhoGov, I create a logistic regression model to predict whether the share of females in the cabinet will increase or decrease in the next year. 
-
-### Project: Mental Health Costs of Covid Lockdown on the Turkish population
-
-Turkey imposed Covid lockdowns on individuals over the age of 65. I reproduce an existing study and extend the results to evaluate the impact of these lockdowns on mental health outcomes.
-
 
 
 
