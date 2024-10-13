@@ -14,7 +14,8 @@
 
 ### Academics: 
 
-- Bachelor of Sciences in Economics at the London School of Economics and Political Science (2021-2024)
+- Master of Sciences in "Data Science & AI for Business" from École Polytechnique & HEC Paris (2024-2026)
+- Bachelor of Sciences in "Economics" from the London School of Economics and Political Science (2021-2024)
 - Pre-College Program at Brown university in "Statistical Programming in R" (2019)
 - French Baccalaureate at Lycée Fénelon Sainte-Marie in Paris with Specialisms in Maths, Geopolitics and Physics & Chemistry (2018-2021)
 
@@ -29,9 +30,9 @@
 
 ### Skills: 
 
+- Data Science: Machine learning; Deep Learning
 - Economics: Macroecoonomics; Microeconomics; Econometrics
 - Mathematics: Statistics; Linear algebra
-- Data Science: Machine learning
 - Finance: Coporate Finance; Market Finance
 
 ### Professional Experiences: 
